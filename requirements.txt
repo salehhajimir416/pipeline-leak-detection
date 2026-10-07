@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+xgboost
+matplotlib
+tabulate
+pywin32
